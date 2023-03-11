@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Travlr",
+    "\\Travlr\\app_server",
+    "\\Travlr\\app_server\\models",
+    "\\Travlr\\app_server\\routes",
+    "\\Travlr\\bin",
+    "\\Travlr\\data",
+    "\\Travlr\\images",
+    "\\Travlr\\public",
+    "\\Travlr\\public\\javascripts"
+  ],
+  "SelectedNode": "\\Travlr\\public\\travel.html",
+  "PreviewInSolutionExplorer": false
+}
