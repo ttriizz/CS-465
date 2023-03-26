@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Travlr",
+    "\\Travlr\\node_modules",
+    "\\Travlr\\node_modules\\mongoose\\node_modules",
+    "\\Travlr\\node_modules\\mongoose\\node_modules\\mongodb",
+    "\\Travlr\\node_modules\\mongoose\\node_modules\\mongodb\\lib",
+    "\\Travlr\\node_modules\\mongoose\\node_modules\\mongodb\\lib\\core",
+    "\\Travlr\\node_modules\\mongoose\\node_modules\\mongodb\\lib\\topologies",
+    "\\Travlr\\node_modules\\seedgoose",
+    "\\Travlr\\node_modules\\seedgoose\\examples",
+    "\\Travlr\\node_modules\\seedgoose\\examples\\suite1"
+  ],
+  "SelectedNode": "\\Travlr\\node_modules\\seedgoose\\examples\\suite1\\package.json",
+  "PreviewInSolutionExplorer": false
+}
